@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignoring all .json files
+**/*.json
+**/*.ts
+
+build
+coverage
