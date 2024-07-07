@@ -154,4 +154,5 @@ sketch
 
 
 vite-env.d.ts
+.prettierignore
 
