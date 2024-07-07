@@ -1,4 +1,4 @@
-import './css/style.css'
+import './../src/css/style.css'
 import fullList from './model/fullList'
 import listItem from './model/listItem'
 import listTemplate from './templates/listTemplate'
